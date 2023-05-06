@@ -2,4 +2,4 @@
 
 
 
-Exercises done during the course Programming Basics with Python. 
+Exercises done during the course Programming Basics with Python from SoftUni. 
